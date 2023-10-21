@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Mi perfil profesional
+Mi nombre es Marcela Menjivar, tengo 21 años, estudio ing. en sistemas
 <!--
 **Marcela-mg01/Marcela-mg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
