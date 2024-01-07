@@ -1,6 +1,6 @@
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 <h1 align="center">Hi 👋, I'm Marcela</h1>
 <h3 align="center">A passionate frontend and backend developer from El Salvador</h3>
-<img align="right" alt="Coding" width="400" src="57ae3421-7ba7-4f53-88ea-216063e7ffdf.jpeg">
 
 
 - 🔭 I’m currently working on **PHP, JavaScript Web App**
