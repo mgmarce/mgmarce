@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+![Design and Development](programando.gif)
 <h1 align="center">Hi 👋, I'm Marcela</h1>
 <h3 align="center">A passionate frontend and backend developer from El Salvador</h3>
 
