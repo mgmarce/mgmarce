@@ -1,5 +1,5 @@
 ![Design and Development](progra.gif)
-<h1 align="center">Marcela Menjívar</h1>
+<h1>Marcela Menjívar</h1>
 <h3 align="center">A frontend and backend developer from El Salvador. I really enjoy learning languages and frameworks like React, C and Ruby, as well as work in WordPress. I also enjoy web design.</h3>
 
 - 🔭 I’m currently working on **PHP, JavaScript Web App**
