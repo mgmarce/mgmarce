@@ -1,13 +1,11 @@
 ![](portada.png)
 # Marcela Menjívar
-<h3 align="center">A frontend and backend developer from El Salvador. I really enjoy learning languages and frameworks like React, C and Ruby, as well as work in WordPress. I also enjoy web design.</h3>
+<h3 align="center">A frontend and backend developer from El Salvador. I really enjoy learning languages and frameworks like React and Ruby, as well as work in WordPress. I also enjoy web design.</h3>
 
 ## About me
 - 🔭 I’m currently working on **PHP, JavaScript Web App**
 
-- 🌱 I’m currently learning **Ruby, C**
-
-- 📫 How to reach me **marcelamenjivar.g@gmail.com**
+- 🌱 I’m currently learning **React, SpringToolSuite**
 
 ## Connect with me:
 <p align="left">
