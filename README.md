@@ -3,9 +3,11 @@
 <h3 align="center">A frontend and backend developer from El Salvador. I really enjoy learning languages and frameworks like React and Ruby, as well as work in WordPress. I also enjoy web design.</h3>
 
 ## About me
-- 🔭 I’m currently working on **PHP, JavaScript Web App**
+- ✨ I’m currently working on **PHP, JavaScript Web App and Android applications with React**
 
-- 🌱 I’m currently learning **React, SpringToolSuite**
+- ⭐ I’m currently learning **React, SpringToolSuite**
+
+- 💜 I speak **English, Spanish and Japanese**
 
 ## Connect with me:
 <p align="left">
