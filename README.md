@@ -1,6 +1,6 @@
 ![](portada-img.png)
 # Marcela Menjívar
-<h3 align="center">A frontend and backend developer from El Salvador. I really enjoy learning languages and frameworks like React and Ruby, as well as work in WordPress. I also enjoy web design.</h3>
+<h3 align="center">Junior Full Stack Developer with experience in Java, C#, .NET, and JavaScript. Passionate about backend development and currently training in cloud computing with AWS. I share projects that include web development, backend applications, and continuous integration practices. Always learning and exploring new technologies.</h3>
 
 ## About me
 - ✨ I’m currently working on **PHP, JavaScript Web App and Android applications with React**
