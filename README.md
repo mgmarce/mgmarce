@@ -1,4 +1,3 @@
-![](portada-img.png)
 # Marcela Menjívar
 <h3 align="center">Junior Full Stack Developer with experience in Java, C#, .NET, and JavaScript. Passionate about backend development and currently training in cloud computing with AWS. I share projects that include web development, backend applications, and continuous integration practices. Always learning and exploring new technologies.</h3>
 
