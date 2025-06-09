@@ -14,4 +14,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![Skills](https://skillicons.dev/icons?i=aws)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
