@@ -15,4 +15,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Skills](https://skillicons.dev/icons?i=js,php,go,java,cs,ts&theme=light)
+![Skills](https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,css,django,dotnet,figma,firebase,gcp,git,go,html,ai,java,js,jquery,Linux,matlab,mongodb,mysql,nodejs,php,postgres,postman,py,react,sass,spring,tailwind,ts,vite,vue,wordpress&theme=light) 
