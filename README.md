@@ -13,6 +13,20 @@
 <a href="https://linkedin.com/in/marcela-menjivar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-menjivar-mg11" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages
+<img src="https://skillicons.dev/icons?i=cs,css,html,java,js,ts,py,php,go,matlab" />
 
-![Skills](https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,css,django,dotnet,figma,firebase,gcp,git,go,html,ai,java,js,jquery,linux,matlab,mongodb,mysql,nodejs,php,postgres,postman,py,react,sass,spring,tailwind,ts,vite,vue,wordpress&theme=light) 
+### Frontend Tools / Frameworks
+<img src="https://skillicons.dev/icons?i=angular,react,vue,bootstrap,tailwind,sass,vite,jquery" />
+
+### Backend Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,django,dotnet,spring" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,linux,git" />
+
+### Design & Tools
+<img src="https://skillicons.dev/icons?i=figma,illustrator,postman,wordpress" />
